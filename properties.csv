@@ -1,0 +1,14 @@
+Property,Expected type,Description,Example
+moz:madeMiserableBy,"agent, place, or literal",,
+moz:ignoredBy,agent or literal,,"""you"""
+moz:wontShare,agent or literal,,"""you"""
+moz:callsForDeathOf,agent or literal,,"<http://dbpedia.org/resource/Margaret_Thatcher>, <http://viaf.org/viaf/138563080/>"
+moz:itWasReallyNothing,literal,,
+moz:goesAndStandsOnTheirOwnIn,place or literal,,"""a club if you'd like to go"""
+moz:leavesOnTheirOwn,place or literal,,
+moz:criesIn,place or literal,,"""home"""
+moz:wantsToDieIn,place or literal,,
+moz:happy,date or literal,,"""in the haze of a drunken hour"""
+moz:miserable,date or literal,,"""now"""
+moz:onYourSide,agent,,"<http://id.loc.gov/authorities/names/n80035884>, <http://id.loc.gov/authorities/names/n78095579>"
+moz:onMySide,agent,,<http://id.loc.gov/authorities/names/n79042038>
