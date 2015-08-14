@@ -13,3 +13,4 @@ moz:miserable,date or literal,,"""now"""
 moz:onYourSide,agent,,"<http://id.loc.gov/authorities/names/n80035884>, <http://id.loc.gov/authorities/names/n78095579>"
 moz:onMySide,agent,,<http://id.loc.gov/authorities/names/n79042038>
 moz:hatedFor,literal,,"""loving"""
+moz:knowsHowFelt,"agent or literal",,<viaf.org/viaf/97108273/>
