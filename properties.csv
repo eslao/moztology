@@ -1,4 +1,4 @@
-Property,Expected type,Description,Example(s)
+Property,Expected type(s),Description,Example(s)
 moz:madeMiserableBy,"agent, place, or literal",,
 moz:ignoredBy,agent or literal,,"""you"""
 moz:wontShare,agent or literal,,"""you"""
